@@ -1,20 +1,15 @@
+contador = 0;
 // Tipos de dados primitivos    
 console.log("Olá, mundo!");
-
-let contador 
-
-
+// string
 let nome = "Lucas Alves";
 console.log("Meu nome é " + nome);
-// string
-
+// number
 let idade = 29;
 console.log("voce tem " + idade + " anos");
-// number
-
+// boolean
 let eMaiorDeIdade = idade >=18;
 console.log("É maior de idade? " + eMaiorDeIdade);
-// boolean
 
 //null e undefined
 let endereco = null;
